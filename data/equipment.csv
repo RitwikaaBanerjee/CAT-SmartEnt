@@ -1,0 +1,9 @@
+equipment_id,equipment_type,site_id,check_out_date,check_in_date,engine_hours_per_day,idle_hours_per_day,operating_days,last_operator_id
+EXQ1001,Excavator,S003,2025-04-01,2025-04-16,1.5,10,15,OP101
+EXQ1002,Crane,,2025-03-10,2025-03-30,0,11,20,
+EXQ1003,Bulldozer,S002,2025-02-15,2025-03-11,7.5,0.5,25,OP203
+EXQ1004,Excavator,S004,2025-05-01,2025-05-12,2,8,10,OP106
+EXQ1005,Bulldozer,S006,2025-01-01,2025-01-31,8,0,30,OP301
+EXQ1006,Grader,S001,2025-04-05,2025-04-23,3,6,18,OP314
+EXQ1007,Excavator,,2025-03-20,2025-04-01,0,12,12,
+
